@@ -1,0 +1,16 @@
+rly_file = "Linha_do_Algarve.rly"
+ttb_files = [ "Linha_do_Algarve_MoFri_2023_0547.ttb",]
+ssn_files = [ "Linha_do_Algarve_MoFri_2023_0547.ssn",]
+img_files = [ "Linha_do_Algarve.bmp",]
+doc_files = [ "README.md",]
+release_date = "2023-01-28"
+version = "1.0.0"
+country_code = "PT"
+factual = true
+description = ""
+year = 2023
+display_name = "Linha Do Algarve"
+name = "Linha Do Algarve"
+signal_position = "left"
+author = "Kristian Zarębski"
+contributors = []
